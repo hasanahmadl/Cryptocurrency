@@ -65,4 +65,3 @@ We have to mine a new block. We give mining reward :
 blockchain.minePendingTransactions(key.getPublic('hex'));
 ```
 
-
