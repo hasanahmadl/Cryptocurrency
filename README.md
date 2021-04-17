@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:20px;>
+<p align="center" style="border-radius:10px;>
  <img width=200px height=200px src="SMADIcoin.jpeg" alt="logo">
 </p>
 
