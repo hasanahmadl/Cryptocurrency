@@ -1,4 +1,4 @@
-<div align="center" style="border:1px ;border-radius:30px;>
+<div align="center">
 <a href="" rel="noopener">
 <img width=200px height=200px src="SMADIcoin.jpeg" alt="logo"></a>
 </div>
